@@ -1,22 +1,12 @@
 {
   "Header": {
     "title": "Mohammad Alabudy",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "Online Marketer Looking for a new challenge Online-Marketing | SEO | SEA | Social Media Marketing."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "Online Marketer with 1-year fulltime training in Online Marketing. Seeking a position to apply experience from Online Marketing. Excited to start and grow with your team.",
+    "Why": ["Google Analytics", "Google Ad", "Ahrefs", "Screanfrog"],
+    "Why2": ["MS Office", "Figma", "Facebook Business Manager", "Canva"]
   },
   "Services": [
     {
@@ -105,12 +95,8 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Berlin Germany",
+    "email": "Mohammadalabudy61@gmail.com"
   },
   "Features": [
     {
